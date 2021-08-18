@@ -1,2 +1,2 @@
 # tela_inicial_instagram
-trabalho de recitação do instagram 
+trabalho de recriação do instagram 
